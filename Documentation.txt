@@ -1,2 +1,4 @@
 rule 1
 never skip leg day
+bagfix mode
+clear you face
